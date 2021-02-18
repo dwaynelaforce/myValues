@@ -53,7 +53,7 @@ expo start
 
 You should see a new tab open in your default browser with a QR code in the bottom left corner.  Click 'Run in web browser' to open a new tab and use the app in your web browser.
 
-### Using the app on your phone or other mobile device
+## Using the app on your phone or other mobile device
 
 Download and install the 'Expo Go' app from the device app store.
 
