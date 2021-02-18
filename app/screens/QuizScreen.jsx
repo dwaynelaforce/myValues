@@ -30,7 +30,7 @@ function QuizScreen({ navigation }) {
                     `https://www.dictionaryapi.com/api/v3/references/collegiate/json/${word}?key=1fd93f78-0bc6-4fd2-b7f4-0e5b6124d23d`
                 )
                 .then((res) => {
-                    console.log(res.data[0]);
+                    // console.log(res.data[0]);
                     var singleVal = {
                         label: word,
                         value: res.data[0].shortdef,

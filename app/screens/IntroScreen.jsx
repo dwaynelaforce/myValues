@@ -26,7 +26,6 @@ function IntroScreen({navigation}) {
                     </Text>
                 </View>
                 <View style={styles.bottomBox}>
-                    {/* <Text style={styles.button} onPress={() => navigation.navigate("Dwayne")}>To Dwayne.jsx</Text>*/}
                     <Text style={styles.button} onPress={() => navigation.navigate("QuizScreen")}>Begin</Text> 
                     <Text style={styles.attribution}>Background Photo by Geran de Klerk on Unsplash</Text>
                     <Text style={styles.attribution}>Logo designed by litonmee (Image #27510217 at VectorStock.com)</Text>

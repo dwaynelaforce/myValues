@@ -1,2 +1,0 @@
-hi aaron,
-this has been pushed to your proj folder through git!
